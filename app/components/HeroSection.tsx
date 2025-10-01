@@ -10,8 +10,8 @@ export default function HeroSection() {
 					<Image
 						src="/portrait.jpg"
 						alt="Profile Picture"
-						width={120}
-						height={120}
+						width={300}
+						height={300}
 						className="rounded-full mx-auto border-4 border-gray-50 shadow-lg"
 					/>
 				</div>
