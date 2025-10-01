@@ -19,11 +19,13 @@ export default function HeroSection() {
 					Porter Loveless
 				</h1>
 				<p className="text-lg sm:text-xl text-gray-600 mb-6 sm:mb-8">
-					Full Stack Developer
+					Full Stack Software Engineer
 				</p>
 				<p className="text-gray-600 max-w-2xl mx-auto text-sm sm:text-base px-4">
-					I build exceptional and accessible digital experiences for the web.
-					Focused on creating elegant solutions to complex problems.
+					I craft full-stack web applications that solve real-world problems
+					with modern technologies. Specializing in React, Next.js, and
+					data-driven solutions, I transform complex requirements into intuitive
+					user experiences that make a meaningful impact.
 				</p>
 			</div>
 		</section>
