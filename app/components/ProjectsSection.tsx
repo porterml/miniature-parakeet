@@ -78,7 +78,7 @@ export default function ProjectsSection() {
 						</div>
 					</div>
 					{/* PROJECT 3 - Kiba Outdoors*/}
-					<div className="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow">
+					{/* <div className="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow">
 						<div className="aspect-video bg-gray-100 relative">
 							<Image
 								src={`/code.jpg`}
@@ -104,9 +104,9 @@ export default function ProjectsSection() {
 								</a>
 							</div>
 						</div>
-					</div>
+					</div> */}
 					{/* PROJECT 4 - Utah Motorvehicle Accident Analyzer*/}
-					<div className="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow">
+					{/* <div className="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow">
 						<div className="aspect-video bg-gray-100 relative">
 							<Image
 								src={`/code.jpg`}
@@ -132,9 +132,9 @@ export default function ProjectsSection() {
 								</a>
 							</div>
 						</div>
-					</div>
+					</div> */}
 					{/* PROJECT 5 - Utah Opiate Drug Prescription Analysis*/}
-					<div className="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow">
+					{/* <div className="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow">
 						<div className="aspect-video bg-gray-100 relative">
 							<Image
 								src={`/code.jpg`}
@@ -160,9 +160,9 @@ export default function ProjectsSection() {
 								</a>
 							</div>
 						</div>
-					</div>
+					</div> */}
 					{/* PROJECT 6 - Work at Pluralsight*/}
-					<div className="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow">
+					{/* <div className="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow">
 						<div className="aspect-video bg-gray-100 relative">
 							<Image
 								src={`/code.jpg`}
@@ -188,7 +188,7 @@ export default function ProjectsSection() {
 								</a>
 							</div>
 						</div>
-					</div>
+					</div> */}
 				</div>
 			</div>
 		</section>
